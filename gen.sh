@@ -20,7 +20,7 @@ cd pages/fosd.net
 #commit
 git add *
 git commit -a -m "update website"
-git push
+git push origin gh-pages
 
 #cleanup
 #cd ../..
