@@ -18,7 +18,7 @@ All links are maintained in the `links` file.
 
 The file has the following format:
 
-   title;link;shortcut
+    title;link;shortcut
 
 where title is the title of the page that will appear in the link list on fosd.net, link is the url that points to the page, and shortcut is the (case sensitive) abbreviation in the final link. It is possible to add multiple shortcuts separated by semicolons.
 
