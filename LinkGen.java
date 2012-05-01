@@ -42,7 +42,7 @@ public class LinkGen {
 					File dir = new File(targetDir,linkName);
 					if (!dir.exists())
 						dir.mkdir();
-					File file = new File(dir, "index.php");
+					File file = new File(dir, "index.html");
 					if (file.exists())
 						file.delete();
 
