@@ -1,0 +1,1 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>CPPStats</title><meta http-equiv="REFRESH" content="0;url=http://www.infosun.fim.uni-passau.de/cl/staff/liebig/cppstats/"></head><body>Loading <a href="http://www.infosun.fim.uni-passau.de/cl/staff/liebig/cppstats/">CPPStats</a>.</body></html>

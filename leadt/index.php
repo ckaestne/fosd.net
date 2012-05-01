@@ -1,0 +1,1 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>Variability Mining with LEADT</title><meta http-equiv="REFRESH" content="0;url=http://www.informatik.uni-marburg.de/~kaestner/leadt/"></head><body>Loading <a href="http://www.informatik.uni-marburg.de/~kaestner/leadt/">Variability Mining with LEADT</a>.</body></html>

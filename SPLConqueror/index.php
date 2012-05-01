@@ -1,0 +1,1 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>SPL Conqueror </title><meta http-equiv="REFRESH" content="0;url=http://wwwiti.cs.uni-magdeburg.de/~nsiegmun/SPLConqueror"></head><body>Loading <a href="http://wwwiti.cs.uni-magdeburg.de/~nsiegmun/SPLConqueror">SPL Conqueror </a>.</body></html>

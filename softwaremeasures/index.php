@@ -1,0 +1,1 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>Software Measures and Program Comprehension</title><meta http-equiv="REFRESH" content="0;url=http://wwwiti.cs.uni-magdeburg.de/~feigensp/swm/"></head><body>Loading <a href="http://wwwiti.cs.uni-magdeburg.de/~feigensp/swm/">Software Measures and Program Comprehension</a>.</body></html>

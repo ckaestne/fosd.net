@@ -1,0 +1,1 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>FeatureVisu</title><meta http-equiv="REFRESH" content="0;url=http://featurevisu.sosy-lab.org/"></head><body>Loading <a href="http://featurevisu.sosy-lab.org/">FeatureVisu</a>.</body></html>

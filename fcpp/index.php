@@ -1,0 +1,1 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>FeatureC++</title><meta http-equiv="REFRESH" content="0;url=http://wwwiti.cs.uni-magdeburg.de/iti_db/forschung/fop/featurec/"></head><body>Loading <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/forschung/fop/featurec/">FeatureC++</a>.</body></html>
