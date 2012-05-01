@@ -15,7 +15,7 @@ public class LinkGen {
 
 		File targetDir = new File("pages/fosd.net/");
 
-		FileWriter linkListWriter = new FileWriter(new File(targetDir,"linklist.html"));
+		FileWriter linkListWriter = new FileWriter(new File(targetDir,"_includes/linklist.html"));
 
 		String line;
 		while ((line = reader.readLine()) != null) {
