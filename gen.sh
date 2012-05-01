@@ -3,14 +3,15 @@ mkdir pages
 cd pages
 git clone git@github.com:ckaestne/fosd.net.git
 cd fosd.net
-git checkout gh-pages
+git checkout gh-pages -f
+git reset --hard
 
 #remove all previous files
 find . -type f| grep -v '\.git' | xargs rm
 cd ../..
 
 #generate new page
-cp -r src/site/* pages/fosd.net/
+cp -r site/* pages/fosd.net/
 
 java LinkGen
 
