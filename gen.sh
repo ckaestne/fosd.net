@@ -13,6 +13,7 @@ cd ../..
 #generate new page
 cp -r site/* pages/fosd.net/
 
+javac LinkGen.java
 java LinkGen
 
 cd pages/fosd.net
