@@ -1,0 +1,1 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>FeatureHouse</title><meta http-equiv="REFRESH" content="0;url=http://www.infosun.fim.uni-passau.de/cl/apel/fh/"></head><body>Loading <a href="http://www.infosun.fim.uni-passau.de/cl/apel/fh/">FeatureHouse</a>.</body></html>

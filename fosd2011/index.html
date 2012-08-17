@@ -1,0 +1,1 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>FOSD Workshop 2011</title><meta http-equiv="REFRESH" content="0;url=http://wwwiti.cs.uni-magdeburg.de/iti_db/workshops/FOSD11/"></head><body>Loading <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/workshops/FOSD11/">FOSD Workshop 2011</a>.</body></html>
