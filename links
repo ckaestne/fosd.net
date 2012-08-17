@@ -1,4 +1,4 @@
-CIDE;http://wwwiti.cs.uni-magdeburg.de/iti_db/forschung/cide/;cide;CIDE
+CIDE;http://ckaestne.github.com/CIDE/;cide;CIDE
 FeatureIDE;http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/;fide;featureide;FeatureIDE
 FeatureHouse;http://www.infosun.fim.uni-passau.de/cl/apel/fh/;fh;featurehouse;FeatureHouse
 FeatureFoundation;http://www.infosun.fim.uni-passau.de/cl/FeatureFoundation/index_en.html;ff;FeatureFoundation
@@ -37,3 +37,4 @@ Measuring Programming Experience;http://wwwiti.cs.uni-magdeburg.de/~feigensp/PE;
 JDime: Structured Merge with Auto-Tuning;http://www.infosun.fim.uni-passau.de/spl/JDime;JDime
 Analyses Strategies for Software Product Lines;http://wwwiti.cs.uni-magdeburg.de/iti_db/research/spl-strategies/;spl-strategies
 Does the Discipline of Preprocessor Annotations Matter? A Controlled Experiment;http://wwwiti.cs.uni-magdeburg.de/~sanschul/experiment/;experimentIfdef
+Large-Scale Variability-Aware Type Checking and Dataflow Analysis;http://www.infosun.fim.uni-passau.de/spl/va_experience/;vaa
