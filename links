@@ -12,7 +12,7 @@ FOSD Workshop 2012;http://planet-sl.org/fosd2012/;2012;FOSD2012;fosd2012
 FOSD Workshop 2013;http://wwwiti.cs.uni-magdeburg.de/iti_db/workshops/FOSD13/;2013;FOSD2013;fosd2013
 Feature Featherweight Java;http://www.infosun.fim.uni-passau.de/cl/staff/apel/ffj/;ffj
 LJAR Technical Report;http://wwwiti.cs.uni-magdeburg.de/iti_db/forschung/cide/LJARTech;LJARTech
-Empirical Evaluation of Program Comprehension;http://wwwiti.cs.uni-magdeburg.de/~feigensp/experiments/;experiments;exp_cppcide
+Empirical Evaluation of Program Comprehension;http://www.infosun.fim.uni-passau.de/spl/janet/;experiments;exp_cppcide
 CPPStats;http://www.infosun.fim.uni-passau.de/cl/staff/liebig/cppstats/;cppstats
 FOSD Treffen 2010 in Magdeburg;http://wwwiti.cs.uni-magdeburg.de/~ckaestne/fosdtreffen2010/;treffen2010
 FOSD Treffen 2011 in Dresden;http://fheidenreich.de/work/fosd-dresden-2011/;treffen2011
@@ -39,4 +39,6 @@ Measuring Programming Experience;http://wwwiti.cs.uni-magdeburg.de/~feigensp/PE;
 JDime: Structured Merge with Auto-Tuning;http://www.infosun.fim.uni-passau.de/spl/JDime;JDime
 Analyses Strategies for Software Product Lines;http://wwwiti.cs.uni-magdeburg.de/iti_db/research/spl-strategies/;spl-strategies
 Does the Discipline of Preprocessor Annotations Matter? A Controlled Experiment;http://wwwiti.cs.uni-magdeburg.de/~sanschul/experiment/;experimentIfdef
-Large-Scale Variability-Aware Type Checking and Dataflow Analysis;http://www.infosun.fim.uni-passau.de/spl/papers/va_experience/;vaa
+Scalable Analysis of Variable Software;http://www.infosun.fim.uni-passau.de/spl/papers/va_experience/;vaa
+FeatureBite: A Feature-Oriented Composer for Java Bytecode;http://www.infosun.fim.uni-passau.de/spl/projects/featurebite/index.html;featurebite
+Family-Based Measurement;http://wwwiti.cs.uni-magdeburg.de/~nsiegmun/family/;Family
