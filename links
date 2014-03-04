@@ -25,7 +25,7 @@ cnife: A tool for the transformation of #ifdefs into feature-modules;http://www.
 FeatureVisu;http://featurevisu.sosy-lab.org/;FeatureVisu
 FeatureTweezer;http://www.infosun.fim.uni-passau.de/cl/staff/scholz/FeatureTweezer;FT;FeatureTweezer
 Feature Commander;http://wwwiti.cs.uni-magdeburg.de/~feigensp/xenomai/;fc
-Variability Mining with LEADT;http://www.informatik.uni-marburg.de/~kaestner/leadt/;leadt
+Variability Mining with LEADT;https://github.com/ckaestne/LEADT;leadt
 Product-Line Testing (SharQ framework);http://www.sharq.tu-darmstadt.de/projects/index.en.jsp;tests
 Software Measures and Program Comprehension;http://wwwiti.cs.uni-magdeburg.de/~feigensp/swm/;swm;softwaremeasures
 SPL Conqueror ;http://wwwiti.cs.uni-magdeburg.de/~nsiegmun/SPLConqueror;SPLConqueror
