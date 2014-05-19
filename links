@@ -47,3 +47,5 @@ Family-Based Measurement;http://wwwiti.cs.uni-magdeburg.de/~nsiegmun/family/;Fam
 Variability in Open-Source and Industrial Software Systems;http://www.infosun.fim.uni-passau.de/spl/papers/ESE2014/;oss_vs_is
 Morpheus: Variability-Aware Refactoring in the Wild;http://www.infosun.fim.uni-passau.de/spl/projects/morpheus/;morpheus
 Presence-Condition Simplification;http://www.infosun.fim.uni-passau.de/spl/projects/PresenceConditionSimplification/;pcSimp
+Variability-Aware Execution for PHP;http://home.engineering.iastate.edu/~hungnv/Research/Varex/;varex;Varex;VarEx
+Analyzing Embedded HTML Code in PHP;http://home.engineering.iastate.edu/~hungnv/Research/Varis/;varis
