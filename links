@@ -31,7 +31,7 @@ Feature Commander;http://wwwiti.cs.uni-magdeburg.de/~feigensp/xenomai/;fc
 Variability Mining with LEADT;https://github.com/ckaestne/LEADT;leadt
 Product-Line Testing (SharQ framework);http://www.sharq.tu-darmstadt.de/projects/index.en.jsp;tests
 Software Measures and Program Comprehension;http://wwwiti.cs.uni-magdeburg.de/~feigensp/swm/;swm;softwaremeasures
-SPL Conqueror ;http://wwwiti.cs.uni-magdeburg.de/~nsiegmun/SPLConqueror;SPLConqueror
+SPL Conqueror;http://www.infosun.fim.uni-passau.de/spl/projects/splconqueror/;SPLConqueror
 View Infinity:A Zoomable Interface for FOSD;http://wwwiti.cs.uni-magdeburg.de/~feigensp/vi;vi
 Feature-Aware Verification;http://www.infosun.fim.uni-passau.de/spl/FAV;FAV
 Results of an empirical study on semistructured and unstructured merge;http://www.infosun.fim.uni-passau.de/spl/SSMerge/;SSMerge
