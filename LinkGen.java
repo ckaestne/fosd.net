@@ -21,7 +21,12 @@ public class LinkGen {
 		while ((line = reader.readLine()) != null) {
 			StringTokenizer tokenizer = new StringTokenizer(line, ";");
 			try {
-				String linkTitle = tokenizer.nextToken();
+				String linkTitle; 
+				// If line starts with ";" the StringTokenizer would skip the empty string before ";".
+				if (line.startsWith(";"))
+					linkTitle="";
+				else
+					linkTitle = tokenizer.nextToken();
 				String linkUrl = tokenizer.nextToken();
 				ArrayList linkNames = new ArrayList();
 				while (tokenizer.hasMoreElements())
@@ -29,12 +34,12 @@ public class LinkGen {
 
 				String content = "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">"
 						+ "<html><head><title>"
-						+ linkTitle
+						+ (linkTitle.isEmpty() ? linkUrl : linkTitle) // if the title is empty, use url instead
 						+ "</title><meta http-equiv=\"REFRESH\" content=\"0;url="
 						+ linkUrl
 						+ "\"></head><body>"
 						+ "Loading <a href=\""
-						+ linkUrl + "\">"+linkTitle+"</a>." + "</body></html>";
+						+ linkUrl + "\">" + (linkTitle.isEmpty() ? linkUrl : linkTitle) + "</a>." + "</body></html>";
 
 				for (Iterator iterator = linkNames.iterator(); iterator
 						.hasNext();) {
@@ -52,7 +57,7 @@ public class LinkGen {
 					writer.close();
 				}
 
-				if (linkNames.size()>0)
+				if (linkNames.size()>0 && ! linkTitle.isEmpty())
 					linkListWriter.write("<li><a target=\"_blank\" href=\""+linkUrl+"\">"+linkTitle+"</a> (/"+linkNames.get(0)+")</li>");
 				
 			} catch (NoSuchElementException e) {
