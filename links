@@ -21,6 +21,7 @@ FOSD Treffen 2012 in Braunschweig;https://www.tu-braunschweig.de/sse/forschung/f
 FOSD Treffen 2013 in Dagstuhl;http://wwwiti.cs.uni-magdeburg.de/~feigensp/fosd13/;treffen2013
 International FOSD Meeting 2014 in Dagstuhl;https://www.isf.cs.tu-bs.de/cms/events/fosd2014/index.html;meeting2014;treffen2014
 International FOSD Meeting 2015 in Traunkirchen;http://mevss.jku.at/?page_id=544;meeting2015;treffen2015;2015
+International FOSD Meeting 2016 in Copenhagen;http://fosd2016.itu.dk/;meeting2016;treffen2016;2016
 Colored Featherweight Java;http://wwwiti.cs.uni-magdeburg.de/iti_db/research/cfj/;cfj
 Multi Software Product Lines;http://wwwiti.cs.uni-magdeburg.de/iti_db/research/multiple/;multiple
 Fuji: Feature-Oriented Java Compiler;http://www.infosun.fim.uni-passau.de/cl/staff/apel/fuji/;fuji
@@ -44,7 +45,7 @@ Analyses Strategies for Software Product Lines;http://wwwiti.cs.uni-magdeburg.de
 Does the Discipline of Preprocessor Annotations Matter? A Controlled Experiment;http://wwwiti.cs.uni-magdeburg.de/~sanschul/experiment/;experimentIfdef
 Scalable Analysis of Variable Software;http://www.infosun.fim.uni-passau.de/spl/papers/va_experience/;vaa
 FeatureBite: A Feature-Oriented Composer for Java Bytecode;http://www.infosun.fim.uni-passau.de/spl/projects/featurebite/index.html;featurebite
-Family-Based Measurement;http://wwwiti.cs.uni-magdeburg.de/~nsiegmun/family/;Family
+Family-Based Measurement;http://www.infosun.fim.uni-passau.de/spl/projects/family/;Family
 Variability in Open-Source and Industrial Software Systems;http://www.infosun.fim.uni-passau.de/spl/papers/ESE2014/;oss_vs_is
 Morpheus: Variability-Aware Refactoring in the Wild;http://www.infosun.fim.uni-passau.de/spl/projects/morpheus/;morpheus
 Presence-Condition Simplification;http://www.infosun.fim.uni-passau.de/spl/projects/PresenceConditionSimplification/;pcsimp
