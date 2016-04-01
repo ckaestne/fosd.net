@@ -13,7 +13,7 @@ FOSD Workshop 2013;http://wwwiti.cs.uni-magdeburg.de/iti_db/workshops/FOSD13/;20
 FOSD Workshop 2014;http://gsd.uwaterloo.ca/fosd2014/;2014;FOSD2014;fosd2014
 Feature Featherweight Java;http://www.infosun.fim.uni-passau.de/cl/staff/apel/ffj/;ffj
 LJAR Technical Report;http://wwwiti.cs.uni-magdeburg.de/iti_db/forschung/cide/LJARTech;LJARTech
-Empirical Evaluation of Program Comprehension;http://www.infosun.fim.uni-passau.de/spl/janet/;experiments;exp_cppcide
+Empirical Evaluation of Program Comprehension;http://www.infosun.fim.uni-passau.de/se/janet/;experiments;exp_cppcide
 CPPStats;http://www.infosun.fim.uni-passau.de/cl/staff/liebig/cppstats/;cppstats
 FOSD Treffen 2010 in Magdeburg;http://wwwiti.cs.uni-magdeburg.de/~ckaestne/fosdtreffen2010/;treffen2010
 FOSD Treffen 2011 in Dresden;http://fheidenreich.de/work/fosd-dresden-2011/;treffen2011
@@ -32,28 +32,28 @@ Feature Commander;http://wwwiti.cs.uni-magdeburg.de/~feigensp/xenomai/;fc
 Variability Mining with LEADT;https://github.com/ckaestne/LEADT;leadt
 Product-Line Testing (SharQ framework);http://www.sharq.tu-darmstadt.de/projects/index.en.jsp;tests
 Software Measures and Program Comprehension;http://wwwiti.cs.uni-magdeburg.de/~feigensp/swm/;swm;softwaremeasures
-SPL Conqueror;http://www.infosun.fim.uni-passau.de/spl/projects/splconqueror/;SPLConqueror
+SPL Conqueror;http://www.infosun.fim.uni-passau.de/se/projects/splconqueror/;SPLConqueror
 View Infinity:A Zoomable Interface for FOSD;http://wwwiti.cs.uni-magdeburg.de/~feigensp/vi;vi
-Feature-Aware Verification;http://www.infosun.fim.uni-passau.de/spl/FAV;FAV
-Results of an empirical study on semistructured and unstructured merge;http://www.infosun.fim.uni-passau.de/spl/SSMerge/;SSMerge
+Feature-Aware Verification;http://www.infosun.fim.uni-passau.de/se/FAV;FAV
+Results of an empirical study on semistructured and unstructured merge;http://www.infosun.fim.uni-passau.de/se/SSMerge/;SSMerge
 PROPHET: Supporting Program-Comprehension Experiments;http://wwwiti.cs.uni-magdeburg.de/~feigensp/prophet;prophet
 TypeChef: Type checking #ifdef variability (in the Linux kernel);http://ckaestne.github.com/TypeChef;TypeChef;typechef;Typechef
 SpeK: Composition of Feature-Oriented Specification given in the Java Modeling Language;http://www.infosun.fim.uni-passau.de/cl/staff/scholz/spek;spek;SpeK
 Measuring Programming Experience;http://wwwiti.cs.uni-magdeburg.de/~feigensp/PE;PE
-JDime: Structured Merge with Auto-Tuning;http://www.infosun.fim.uni-passau.de/spl/JDime;JDime
+JDime: Structured Merge with Auto-Tuning;http://www.infosun.fim.uni-passau.de/se/JDime;JDime
 Analyses Strategies for Software Product Lines;http://wwwiti.cs.uni-magdeburg.de/iti_db/research/spl-strategies/;spl-strategies
 Does the Discipline of Preprocessor Annotations Matter? A Controlled Experiment;http://wwwiti.cs.uni-magdeburg.de/~sanschul/experiment/;experimentIfdef
-Scalable Analysis of Variable Software;http://www.infosun.fim.uni-passau.de/spl/papers/va_experience/;vaa
-FeatureBite: A Feature-Oriented Composer for Java Bytecode;http://www.infosun.fim.uni-passau.de/spl/projects/featurebite/index.html;featurebite
-Family-Based Measurement;http://www.infosun.fim.uni-passau.de/spl/projects/family/;Family
-Variability in Open-Source and Industrial Software Systems;http://www.infosun.fim.uni-passau.de/spl/papers/ESE2014/;oss_vs_is
-Morpheus: Variability-Aware Refactoring in the Wild;http://www.infosun.fim.uni-passau.de/spl/projects/morpheus/;morpheus
-Presence-Condition Simplification;http://www.infosun.fim.uni-passau.de/spl/projects/PresenceConditionSimplification/;pcsimp
+Scalable Analysis of Variable Software;http://www.infosun.fim.uni-passau.de/se/papers/va_experience/;vaa
+FeatureBite: A Feature-Oriented Composer for Java Bytecode;http://www.infosun.fim.uni-passau.de/se/projects/featurebite/index.html;featurebite
+Family-Based Measurement;http://www.infosun.fim.uni-passau.de/se/projects/family/;Family
+Variability in Open-Source and Industrial Software Systems;http://www.infosun.fim.uni-passau.de/se/papers/ESE2014/;oss_vs_is
+Morpheus: Variability-Aware Refactoring in the Wild;http://www.infosun.fim.uni-passau.de/se/projects/morpheus/;morpheus
+Presence-Condition Simplification;http://www.infosun.fim.uni-passau.de/se/projects/PresenceConditionSimplification/;pcsimp
 Variability-Aware Execution for PHP;http://home.engineering.iastate.edu/~hungnv/Research/Varex/;varex;Varex;VarEx
 Analyzing Embedded HTML Code in PHP;http://home.engineering.iastate.edu/~hungnv/Research/Varis/;varis
 Contracts for Software Product Lines;http://wwwiti.cs.uni-magdeburg.de/iti_db/research/spl-contracts/;spl-contracts
 Survey on Tools for FOSD;http://wwwiti.cs.uni-magdeburg.de/iti_db/research/fosd-tools/;tools
-SPLConqueror-FSE15;http://www.infosun.fim.uni-passau.de/spl/projects/splconqueror/esecfse2015.php;SPLConqueror-FSE15
-SIFTA: Scalable Analysis of Inter-App Communication;http://www.infosun.fim.uni-passau.de/spl/papers/app_analysis/;siftaeval
-;http://www.infosun.fim.uni-passau.de/spl/rhein/thesis/;vonRhein
+SPLConqueror-FSE15;http://www.infosun.fim.uni-passau.de/se/projects/splconqueror/esecfse2015.php;SPLConqueror-FSE15
+SIFTA: Scalable Analysis of Inter-App Communication;http://www.infosun.fim.uni-passau.de/se/papers/app_analysis/;siftaeval
+;http://www.infosun.fim.uni-passau.de/se/rhein/thesis/;vonRhein
 VarexJ - Variability-Aware Execution for Java;http://meinicke.github.io/VarexJ/;varexj
