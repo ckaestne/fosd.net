@@ -29,18 +29,18 @@ Fuji: Feature-Oriented Java Compiler;http://www.infosun.fim.uni-passau.de/cl/sta
 cnife: A tool for the transformation of #ifdefs into feature-modules;http://www.infosun.fim.uni-passau.de/cl/staff/liebig/cnife/;cnife
 FeatureVisu;http://featurevisu.sosy-lab.org/;FeatureVisu
 FeatureTweezer;http://www.infosun.fim.uni-passau.de/cl/staff/scholz/FeatureTweezer;FT;FeatureTweezer
-Feature Commander;http://wwwiti.cs.uni-magdeburg.de/~feigensp/xenomai/;fc
+Feature Commander;http://www.infosun.fim.uni-passau.de/spl/janet/xenomai/;fc
 Variability Mining with LEADT;https://github.com/ckaestne/LEADT;leadt
 Product-Line Testing (SharQ framework);http://www.sharq.tu-darmstadt.de/projects/index.en.jsp;tests
 Software Measures and Program Comprehension;http://wwwiti.cs.uni-magdeburg.de/~feigensp/swm/;swm;softwaremeasures
 SPL Conqueror;http://www.infosun.fim.uni-passau.de/se/projects/splconqueror/;SPLConqueror
-View Infinity:A Zoomable Interface for FOSD;http://wwwiti.cs.uni-magdeburg.de/~feigensp/vi;vi
+View Infinity:A Zoomable Interface for FOSD;http://www.infosun.fim.uni-passau.de/spl/janet/vi/;vi
 Feature-Aware Verification;http://www.infosun.fim.uni-passau.de/se/FAV;FAV
 Results of an empirical study on semistructured and unstructured merge;http://www.infosun.fim.uni-passau.de/se/SSMerge/;SSMerge
-PROPHET: Supporting Program-Comprehension Experiments;http://wwwiti.cs.uni-magdeburg.de/~feigensp/prophet;prophet
+PROPHET: Supporting Program-Comprehension Experiments;http://www.infosun.fim.uni-passau.de/spl/janet/prophet/;prophet
 TypeChef: Type checking #ifdef variability (in the Linux kernel);http://ckaestne.github.com/TypeChef;TypeChef;typechef;Typechef
 SpeK: Composition of Feature-Oriented Specification given in the Java Modeling Language;http://www.infosun.fim.uni-passau.de/cl/staff/scholz/spek;spek;SpeK
-Measuring Programming Experience;http://wwwiti.cs.uni-magdeburg.de/~feigensp/PE;PE
+Measuring Programming Experience;http://www.infosun.fim.uni-passau.de/spl/janet/PE/;PE
 JDime: Structured Merge with Auto-Tuning;http://www.infosun.fim.uni-passau.de/se/JDime;JDime
 Analyses Strategies for Software Product Lines;http://wwwiti.cs.uni-magdeburg.de/iti_db/research/spl-strategies/;spl-strategies
 Does the Discipline of Preprocessor Annotations Matter? A Controlled Experiment;http://wwwiti.cs.uni-magdeburg.de/~sanschul/experiment/;experimentIfdef
