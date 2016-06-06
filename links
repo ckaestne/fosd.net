@@ -58,3 +58,4 @@ SPLConqueror-FSE15;http://www.infosun.fim.uni-passau.de/se/projects/splconqueror
 SIFTA: Scalable Analysis of Inter-App Communication;http://www.infosun.fim.uni-passau.de/se/papers/app_analysis/;siftaeval
 ;http://www.infosun.fim.uni-passau.de/se/rhein/thesis/;vonRhein
 VarexJ - Variability-Aware Execution for Java;http://meinicke.github.io/VarexJ/;varexj
+Static Analysis of Highly-Configurable Systems: An Empirical Study;http://www.infosun.fim.uni-passau.de/se/papers/var_stat_analysis/;var_stat_analysis
