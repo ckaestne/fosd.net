@@ -2,7 +2,6 @@ CIDE;http://ckaestne.github.com/CIDE/;cide;CIDE
 FeatureIDE;http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/;fide;featureide;FeatureIDE
 FeatureHouse;http://www.infosun.fim.uni-passau.de/cl/apel/fh/;fh;featurehouse;FeatureHouse
 FeatureFoundation;http://www.infosun.fim.uni-passau.de/cl/FeatureFoundation/index_en.html;ff;FeatureFoundation
-Bridging the Gap between Variability in Client Application and Database Schema;http://wwwiti.cs.uni-magdeburg.de/~nsiegmun/ER/;er
 FeatureC++;http://wwwiti.cs.uni-magdeburg.de/iti_db/forschung/fop/featurec/;fcc;fcpp
 Model Composition;http://www.infosun.fim.uni-passau.de/cl/staff/apel/mc/;mc
 FOSD Workshop 2009;http://www.infosun.fim.uni-passau.de/cl/staff/apel/FOSD2009/;2009;FOSD2009;fosd2009
@@ -10,7 +9,7 @@ FOSD Workshop 2010;http://www.infosun.fim.uni-passau.de/cl/staff/apel/FOSD2010/;
 FOSD Workshop 2011;http://wwwiti.cs.uni-magdeburg.de/iti_db/workshops/FOSD11/;2011;FOSD2011;fosd2011
 FOSD Workshop 2012;https://dl.acm.org/citation.cfm?id=2377816;2012;FOSD2012;fosd2012
 FOSD Workshop 2013;http://wwwiti.cs.uni-magdeburg.de/iti_db/workshops/FOSD13/;2013;FOSD2013;fosd2013
-FOSD Workshop 2014;http://gsd.uwaterloo.ca/fosd2014/;2014;FOSD2014;fosd2014
+FOSD Workshop 2014;https://web.archive.org/web/20170402203423/http://gsd.uwaterloo.ca/fosd2014/;2014;FOSD2014;fosd2014
 FOSD Workshop 2016;http://2016.splashcon.org/track/fosd2016;W2016;workshop2016
 Feature Featherweight Java;http://www.infosun.fim.uni-passau.de/cl/staff/apel/ffj/;ffj
 LJAR Technical Report;http://wwwiti.cs.uni-magdeburg.de/iti_db/forschung/cide/LJARTech;LJARTech
@@ -19,10 +18,13 @@ CPPStats;http://www.infosun.fim.uni-passau.de/cl/staff/liebig/cppstats/;cppstats
 FOSD Treffen 2010 in Magdeburg;http://wwwiti.cs.uni-magdeburg.de/~ckaestne/fosdtreffen2010/;treffen2010
 FOSD Treffen 2011 in Dresden;http://fheidenreich.de/work/fosd-dresden-2011/;treffen2011
 FOSD Treffen 2012 in Braunschweig;https://www.tu-braunschweig.de/sse/forschung/fosd12;treffen2012
-FOSD Treffen 2013 in Dagstuhl;http://wwwiti.cs.uni-magdeburg.de/~feigensp/fosd13/;treffen2013
+FOSD Treffen 2013 in Dagstuhl;https://www.dagstuhl.de/de/programm/kalender/evhp/?semnr=13092;treffen2013
 International FOSD Meeting 2014 in Dagstuhl;https://www.isf.cs.tu-bs.de/cms/events/fosd2014/index.html;meeting2014;treffen2014
 International FOSD Meeting 2015 in Traunkirchen;http://mevss.jku.at/?page_id=544;meeting2015;treffen2015;2015
 International FOSD Meeting 2016 in Copenhagen;http://fosd2016.itu.dk/;meeting2016;treffen2016;2016
+International FOSD Meeting 2017 in Darmstadt;http://fosd2017.org/;meeting2017;treffen2017;2017
+International FOSD Meeting 2018 in Gothenburg;https://fosd.github.io/FOSD2018/;meeting2018;treffen2018;2018
+International FOSD Meeting 2019 in Weimar;https://digital-bauhaus.github.io/website-FOSD-2019/;meeting2019;treffen2019;2019
 Colored Featherweight Java;http://wwwiti.cs.uni-magdeburg.de/iti_db/research/cfj/;cfj
 Multi Software Product Lines;http://wwwiti.cs.uni-magdeburg.de/iti_db/research/multiple/;multiple
 Fuji: Feature-Oriented Java Compiler;http://www.infosun.fim.uni-passau.de/cl/staff/apel/fuji/;fuji
@@ -32,7 +34,7 @@ FeatureTweezer;http://www.infosun.fim.uni-passau.de/cl/staff/scholz/FeatureTweez
 Feature Commander;http://www.infosun.fim.uni-passau.de/spl/janet/xenomai/;fc
 Variability Mining with LEADT;https://github.com/ckaestne/LEADT;leadt
 Product-Line Testing (SharQ framework);http://www.sharq.tu-darmstadt.de/projects/index.en.jsp;tests
-Software Measures and Program Comprehension;http://wwwiti.cs.uni-magdeburg.de/~feigensp/swm/;swm;softwaremeasures
+Software Measures and Program Comprehension;https://www.infosun.fim.uni-passau.de/spl/janet/swm/index.php;swm;softwaremeasures
 SPL Conqueror;http://www.infosun.fim.uni-passau.de/se/projects/splconqueror/;SPLConqueror
 View Infinity:A Zoomable Interface for FOSD;http://www.infosun.fim.uni-passau.de/spl/janet/vi/;vi
 Feature-Aware Verification;http://www.infosun.fim.uni-passau.de/se/FAV;FAV
@@ -50,8 +52,8 @@ Family-Based Measurement;http://www.infosun.fim.uni-passau.de/se/projects/family
 Variability in Open-Source and Industrial Software Systems;http://www.infosun.fim.uni-passau.de/se/papers/ESE2014/;oss_vs_is
 Morpheus: Variability-Aware Refactoring in the Wild;http://www.infosun.fim.uni-passau.de/se/projects/morpheus/;morpheus
 Presence-Condition Simplification;http://www.infosun.fim.uni-passau.de/se/projects/PresenceConditionSimplification/;pcsimp
-Variability-Aware Execution for PHP;http://home.engineering.iastate.edu/~hungnv/Research/Varex/;varex;Varex;VarEx
-Analyzing Embedded HTML Code in PHP;http://home.engineering.iastate.edu/~hungnv/Research/Varis/;varis
+Variability-Aware Execution for PHP;https://web.archive.org/web/20141024164921/http://home.engineering.iastate.edu/~hungnv/Research/Varex/;varex;Varex;VarEx
+Analyzing Embedded HTML Code in PHP;https://web.archive.org/web/20150623052817/http://home.engineering.iastate.edu:80/~hungnv/Research/Varis/;varis
 Contracts for Software Product Lines;http://wwwiti.cs.uni-magdeburg.de/iti_db/research/spl-contracts/;spl-contracts
 Survey on Tools for FOSD;http://wwwiti.cs.uni-magdeburg.de/iti_db/research/fosd-tools/;tools
 SPLConqueror-FSE15;http://www.infosun.fim.uni-passau.de/se/projects/splconqueror/esecfse2015.php;SPLConqueror-FSE15
