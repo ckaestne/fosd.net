@@ -13,7 +13,7 @@ FOSD Workshop 2014;https://web.archive.org/web/20170402203423/http://gsd.uwaterl
 FOSD Workshop 2016;http://2016.splashcon.org/track/fosd2016;W2016;workshop2016
 Feature Featherweight Java;http://www.infosun.fim.uni-passau.de/cl/staff/apel/ffj/;ffj
 LJAR Technical Report;http://wwwiti.cs.uni-magdeburg.de/iti_db/forschung/cide/LJARTech;LJARTech
-Empirical Evaluation of Program Comprehension;https://www.tu-chemnitz.de/informatik/ST/research/material/;experiments;exp_cppcide
+Empirical Evaluation of Program Comprehension;https://www.se.cs.uni-saarland.de/projects/janet/experiments.html;experiments;exp_cppcide
 CPPStats;http://www.infosun.fim.uni-passau.de/cl/staff/liebig/cppstats/;cppstats
 FOSD Treffen 2010 in Magdeburg;http://wwwiti.cs.uni-magdeburg.de/~ckaestne/fosdtreffen2010/;treffen2010
 FOSD Treffen 2011 in Dresden;http://fheidenreich.de/work/fosd-dresden-2011/;treffen2011
@@ -32,18 +32,18 @@ Fuji: Feature-Oriented Java Compiler;http://www.infosun.fim.uni-passau.de/cl/sta
 cnife: A tool for the transformation of #ifdefs into feature-modules;http://www.infosun.fim.uni-passau.de/cl/staff/liebig/cnife/;cnife
 FeatureVisu;http://featurevisu.sosy-lab.org/;FeatureVisu
 FeatureTweezer;http://www.infosun.fim.uni-passau.de/cl/staff/scholz/FeatureTweezer;FT;FeatureTweezer
-Feature Commander;https://www.tu-chemnitz.de/informatik/ST/research/material/xenomai/;fc
+Feature Commander;https://www.se.cs.uni-saarland.de/projects/janet/xenomai.html;fc
 Variability Mining with LEADT;https://github.com/ckaestne/LEADT;leadt
 Product-Line Testing (SharQ framework);http://www.sharq.tu-darmstadt.de/projects/index.en.jsp;tests
-Software Measures and Program Comprehension;https://www.tu-chemnitz.de/informatik/ST/research/material/swm/index.php;swm;softwaremeasures
+Software Measures and Program Comprehension;https://www.se.cs.uni-saarland.de/projects/janet/softwaremeasures.html;swm;softwaremeasures
 SPL Conqueror;https://www.se.cs.uni-saarland.de/projects/splconqueror/;SPLConqueror
-View Infinity:A Zoomable Interface for FOSD;https://www.tu-chemnitz.de/informatik/ST/research/material/vi;vi
+View Infinity:A Zoomable Interface for FOSD;https://www.se.cs.uni-saarland.de/projects/janet/vi.html;vi
 Feature-Aware Verification;https://www.se.cs.uni-saarland.de/projects/FAV;FAV
 Results of an empirical study on semistructured and unstructured merge;https://www.se.cs.uni-saarland.de/projects/SSMerge/;SSMerge
-PROPHET: Supporting Program-Comprehension Experiments;https://www.tu-chemnitz.de/informatik/ST/research/material/prophet/;prophet
+PROPHET: Supporting Program-Comprehension Experiments;https://www.se.cs.uni-saarland.de/projects/janet/prophet.html;prophet
 TypeChef: Type checking #ifdef variability (in the Linux kernel);http://ckaestne.github.com/TypeChef;TypeChef;typechef;Typechef
 SpeK: Composition of Feature-Oriented Specification given in the Java Modeling Language;http://www.infosun.fim.uni-passau.de/cl/staff/scholz/spek;spek;SpeK
-Measuring Programming Experience;https://www.tu-chemnitz.de/informatik/ST/research/material/PE/;PE
+Measuring Programming Experience;https://www.se.cs.uni-saarland.de/projects/janet/pe.html;PE
 JDime: Structured Merge with Auto-Tuning;https://www.se.cs.uni-saarland.de/projects/jdime/;JDime
 Analyses Strategies for Software Product Lines;http://wwwiti.cs.uni-magdeburg.de/iti_db/research/spl-strategies/;spl-strategies
 Does the Discipline of Preprocessor Annotations Matter? A Controlled Experiment;http://wwwiti.cs.uni-magdeburg.de/~sanschul/experiment/;experimentIfdef
@@ -62,3 +62,4 @@ SIFTA: Scalable Analysis of Inter-App Communication;https://www.se.cs.uni-saarla
 VarexJ - Variability-Aware Execution for Java;http://meinicke.github.io/VarexJ/;varexj
 Variability-Aware Static Analysis at Scale: An Empirical Study;https://www.se.cs.uni-saarland.de/papers/var_stat_analysis/;var_stat_analysis
 Tradeoffs in Modeling Performance of Highly-Configurable Software Systems;https://www.se.cs.uni-saarland.de/projects/tradeoffs/;tradeoffs
+;https://www.se.cs.uni-saarland.de/projects/rhein/;vonRhein
