@@ -1,4 +1,4 @@
-CIDE;http://ckaestne.github.com/CIDE/;cide;CIDE
+CIDE;https://ckaestne.github.io/CIDE/;cide;CIDE
 FeatureIDE;https://featureide.github.io/;fide;featureide;FeatureIDE
 FeatureHouse;http://www.infosun.fim.uni-passau.de/cl/apel/fh/;fh;featurehouse;FeatureHouse
 FeatureFoundation;http://www.infosun.fim.uni-passau.de/cl/FeatureFoundation/index_en.html;ff;FeatureFoundation
@@ -41,7 +41,7 @@ View Infinity:A Zoomable Interface for FOSD;https://www.se.cs.uni-saarland.de/pr
 Feature-Aware Verification;https://www.se.cs.uni-saarland.de/projects/FAV;FAV
 Results of an empirical study on semistructured and unstructured merge;https://www.se.cs.uni-saarland.de/projects/SSMerge/;SSMerge
 PROPHET: Supporting Program-Comprehension Experiments;https://www.se.cs.uni-saarland.de/projects/janet/prophet.html;prophet
-TypeChef: Type checking #ifdef variability (in the Linux kernel);http://ckaestne.github.com/TypeChef;TypeChef;typechef;Typechef
+TypeChef: Type checking #ifdef variability (in the Linux kernel);https://ckaestne.github.io/TypeChef;TypeChef;typechef;Typechef
 SpeK: Composition of Feature-Oriented Specification given in the Java Modeling Language;http://www.infosun.fim.uni-passau.de/cl/staff/scholz/spek;spek;SpeK
 Measuring Programming Experience;https://www.se.cs.uni-saarland.de/projects/janet/pe.html;PE
 JDime: Structured Merge with Auto-Tuning;https://www.se.cs.uni-saarland.de/projects/jdime/;JDime
